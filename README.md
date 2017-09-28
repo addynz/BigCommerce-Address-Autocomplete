@@ -22,7 +22,7 @@ Create a free account to get your Addy API key: <https://www.addy.co.nz/signup>
 2. Click on Advanced Settings > Web Analytics in the menu.
 3. Check the Google Analytics option and click Save at the bottom.
 4. Click on the Google Analytics tab.
-5. Copy and paste the code below and replace 'YOUR-ADDY-API-KEY' with your API key.
+5. Copy and paste the code below into the "Tracking Code" box and replace <b>'YOUR-ADDY-API-KEY'</b> with your API key.
 6. Click Save and you're done!
 
 ```html
