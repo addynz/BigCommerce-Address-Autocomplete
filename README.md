@@ -22,7 +22,7 @@ Create a free account to get your Addy API key: <https://www.addy.co.nz/signup>
 2. Click on Advanced Settings > Web Analytics in the menu.
 3. Check the Google Analytics option and click Save at the bottom.
 4. Click on the Google Analytics tab.
-5. Copy and paste the code below into the "Tracking Code" box and replace <b>'YOUR-ADDY-API-KEY'</b> with your API key.
+5. Copy and paste the code below into the "Tracking Code" box and replace <b>'demo-api-key'</b> with your API key.
 6. Click Save and you're done!
 
 ```html
@@ -30,7 +30,7 @@ Create a free account to get your Addy API key: <https://www.addy.co.nz/signup>
 (function(d,w){
     w.addEventListener('DOMContentLoaded', function(){
         var s = document.createElement("SCRIPT");
-        s.src = 'https://addycdn.azureedge.net/bigcommerce/1.1.0/addycomplete.js?key=YOUR-ADDY-KEY';
+        s.src = 'https://cdn.addy.co.nz/bigcommerce/1.1.0/addycomplete.js?key=demo-api-key';
         s.type = 'text/javascript';
         s.async = 1;
         d.body.appendChild(s);
