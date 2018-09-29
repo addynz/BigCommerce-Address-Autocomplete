@@ -1,10 +1,12 @@
-# BigCommerce Address Autocomplete Plugin by Addy.co.nz
+# BigCommerce Address and Postcode Finder Plugin
+
+BigCommerce Address Validation with Google Tag Manager (GTM). The address and postcode finder widget will autocomplete NZ addresses in real time. Using Addy's address finder to validate and verify address forms is one of the best ways to improve conversion rates.
 
 https://www.addy.co.nz/
 
 Addy offers the perfect BigCommerce plugin to ensure essential customer billing and shipping address details are validated right at the point of capture. Reassuring customers that their details are correct also reduces the amount of form-filling with address auto-complete technology - perfect for improving your customer experience. This allows your customers to focus their efforts on completing the checkout easily, increasing your checkout conversion rates and business efficiency. 
 
-Addy’s BigCommerce plugin uses intelligent fuzzy matching of addresses.  This means that if a typo, invalid suburb or partially correct address is entered, customers can still find the right delivery or billing address because the addresses are validated against actual delivery point data from official address sources, including the New Zealand Postal Address File (PAF).
+Addy’s BigCommerce plugin uses intelligent fuzzy matching of addresses.  This means that if a typo, invalid suburb or partially correct address is entered, customers can still find the right delivery or billing address because the addresses are validated against actual delivery point data from official address sources, including the ![New Zealand Postal Address File (PAF)](faq-where-does-address-lookup-data-come-from).
 
 ![BigCommerce Address Autocomplete](https://github.com/addynz/BigCommerce-Address-Autocomplete/blob/master/bigcommerceautocomplete.gif)
 
@@ -46,7 +48,7 @@ Addy's BigCommerce plugin is free of charge; download and install it at no cost.
 
 Official Addy site: <https://www.addy.co.nz/>
 
-Complete Shopify Integration Documentation: <https://www.addy.co.nz/address-autocomplete-shopify-plugin>
+Complete BigCommerce Integration Documentation: <https://www.addy.co.nz/address-finder-bigcommerce-plugin>
 
 RESTful API Documentation: <https://www.addy.co.nz/address-search-and-postcode-api>
 
